@@ -2,7 +2,7 @@
 
 Newbie...
 
-(no content)
+(no content)<br>
 [Qiita](https://qiita.com/nico23)
 [Zenn](https://zenn.dev/nico23)
 
