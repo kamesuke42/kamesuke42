@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Newbie...
+
 [Qiita](https://qiita.com/nico23)
 [Zenn](https://zenn.dev/nico23)
 
