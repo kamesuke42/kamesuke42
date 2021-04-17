@@ -5,6 +5,7 @@ Newbie...
 (no content)<br>
 [Qiita](https://qiita.com/nico23)
 [Zenn](https://zenn.dev/nico23)
+[Scrapbox](https://scrapbox.io/nico23/)
 
 ja<br>
 <a href="https://ja.stackoverflow.com/users/44842/nico23"><img src="https://ja.stackoverflow.com/users/flair/44842.png" width="208" height="58" alt="nico23 の スタック・オーバーフロー でのプロフィール、熱狂的でプロフェッショナルなプログラマーのためのQ&amp;A" title="nico23 の スタック・オーバーフロー でのプロフィール、熱狂的でプロフェッショナルなプログラマーのためのQ&amp;A"></a>
