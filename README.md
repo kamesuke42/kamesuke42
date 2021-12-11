@@ -5,7 +5,3 @@
 88  Yb dP""""Yb 88 YY 88 888888 8bodP' `YbodP' 88  Yb 888888     88  .d8888 
 
 ```
-
-PWN...<br>
-[profile.kamesuke42.com](https://profile.kamesuke42.com)<br>
-🐢 [kame.deno.dev](https://kame.deno.dev)
