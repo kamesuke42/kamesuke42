@@ -7,3 +7,5 @@
 ```
 
 [site](https://www.kamesuke42.com)
+
+[loop](http://github.com/kamesuke42)
