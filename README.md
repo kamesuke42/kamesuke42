@@ -6,4 +6,4 @@
 
 ```
 
-Hi, I'm a prog
+Hi, I'm a programmer.
