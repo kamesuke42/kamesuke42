@@ -7,3 +7,5 @@
 ```
 
 Hi, I'm a programmer.
+
+Like: Neovim, Emacs, Rust, CTF, HackTheBox
